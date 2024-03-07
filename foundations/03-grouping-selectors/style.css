@@ -1,0 +1,13 @@
+.combo{
+    font-size:28px;
+    font-family:"Helvetica", "Times New Roman", sans-serif;
+}
+
+.combo.eleone{
+    background-color:black;
+    color:white;
+    font-weight:bold;
+}
+
+.combo.eletwo{background-color:yellow;}
+
